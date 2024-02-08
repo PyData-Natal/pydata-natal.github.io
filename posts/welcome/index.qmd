@@ -1,0 +1,28 @@
+---
+title: "Bem vindo ao PyData Natal"
+author: "Ítalo Epifânio"
+date: "2024-02-07"
+categories: [Comunidade]
+description: >
+    Descubra com a gente um universo de possibilidades com Python e Dados, através 
+    dos nossos encontros presenciais. Inscreva-se em nosso Meetup.com para não perder 
+    nenhuma atualização!
+---
+
+Olá, estamos muito felizes que você está aqui!
+
+Ao longo dos anos, observamos diversas iniciativas de comunidades focadas em Machine 
+Learning, Inteligência Artificial e dados em geral. No entanto, em Natal, esses grupos 
+raramente prosperaram, apesar do evidente interesse no assunto.
+
+PyData Natal surge inspirada por uma mistura de curiosidade e interesse, com o objetivo 
+de explorar a vastidão de novas tecnologias, modelos e tudo o que envolve dados. Trazendo 
+consigo a força da rede global de desenvolvedores e usuários de ferramentas open source 
+[PyData](https://pydata.org/).
+
+![](thumbnail.jpg)
+
+A comunidade planeja encontros presenciais e utilizará este blog para registrar nossas atividades, 
+compartilhar conhecimento e divulgar apresentações. Embora aqui seja um ponto de encontro virtual, 
+nosso principal canal de comunicação e atualizações é o [Meetup.com](https://www.meetup.com/pydata-natal/). 
+Inscreva-se para acompanhar nossas novidades.
