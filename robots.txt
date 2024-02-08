@@ -1,1 +1,1 @@
-Sitemap: https://PyData-Natal.github.io/blog/sitemap.xml
+Sitemap: https://PyData-Natal.github.io/pydata-natal.github.io/sitemap.xml
