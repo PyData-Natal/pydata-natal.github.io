@@ -8,7 +8,6 @@ website:
   cookie-consent: true
   navbar:
     right:
-      - about.qmd
       - icon: github
         href: https://github.com/PyData-Natal
       - icon: discord
