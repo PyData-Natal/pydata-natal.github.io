@@ -11,13 +11,41 @@
     "href": "index.html",
     "title": "Pydata",
     "section": "",
-    "text": "Bem vindo ao PyData Natal\n\n\n\n\n\n\nComunidade\n\n\n\nDescubra com a gente um universo de possibilidades com Python e Dados, através dos nossos encontros presenciais. Inscreva-se em nosso Meetup.com para não perder nenhuma atualização! \n\n\n\n\n\nFeb 7, 2024\n\n\nÍtalo Epifânio\n\n\n\n\n\n\nNo matching items"
+    "text": "Resumo do 1º Meetup PyData Natal\n\n\n\n\n\n\nComunidade\n\n\nMeetup\n\n\n\nConfira os materiais, as fotos, discussões e os próximos passos da comunidade de dados PyData Natal. \n\n\n\n\n\nMay 19, 2024\n\n\nÍtalo Epifânio\n\n\n\n\n\n\n\n\n\n\n\n\nBem vindo ao PyData Natal\n\n\n\n\n\n\nComunidade\n\n\n\nDescubra com a gente um universo de possibilidades com Python e Dados, através dos nossos encontros presenciais. Inscreva-se em nosso Meetup.com para não perder nenhuma atualização! \n\n\n\n\n\nFeb 7, 2024\n\n\nÍtalo Epifânio\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/1-meetup-pydata-natal/index.html",
+    "href": "posts/1-meetup-pydata-natal/index.html",
+    "title": "Resumo do 1º Meetup PyData Natal",
     "section": "",
-    "text": "About this blog"
+    "text": "O primeiro encontro do PyData Natal foi um sucesso. O evento contou com duas palestras e uma roda de conversa que ajudou a organização a entender as expectativas da comunidade. Veja abaixo um resumo do evento, os materiais dos palestrantes e os próximos passos da comunidade PyData Natal."
+  },
+  {
+    "objectID": "posts/1-meetup-pydata-natal/index.html#º-meetup-pydata",
+    "href": "posts/1-meetup-pydata-natal/index.html#º-meetup-pydata",
+    "title": "Resumo do 1º Meetup PyData Natal",
+    "section": "1º Meetup PyData",
+    "text": "1º Meetup PyData\nO primeiro encontro da comunidade aconteceu no dia 11 de abril no Instituto Metrópole Digital, uma quinta-feira a noite. Em números tivemos 71 inscrições no evento e 38 comparecimentos, além dos 95 membros inscritos no meetup.com.\nO evento teve um apoio PyData/NumFOCUS, tanto na infra do meetup.com, quanto no coffee-break (que contou com opções não-alergénicas e veganas da Eat Plant Foods). O Instituto Metrópole Digital, além de ceder o espaço, apoiou a divulgação do evento em suas redes sociais.\n\n\n\nCoffee-break do evento, apoio da PyData/NumFOCUS"
+  },
+  {
+    "objectID": "posts/1-meetup-pydata-natal/index.html#palestras-e-materiais",
+    "href": "posts/1-meetup-pydata-natal/index.html#palestras-e-materiais",
+    "title": "Resumo do 1º Meetup PyData Natal",
+    "section": "Palestras e materiais",
+    "text": "Palestras e materiais\n\nTrazendo data provenance e reprodutibilidade para suas analises de dados em Python\nNessa palestra foi explorado como o Nextflow pode revolucionar a maneira como construímos e executamos pipelines de dados escritos em Python. O Nextflow é uma ferramenta poderosa que simplifica a criação de pipelines reprodutíveis, permite a rastreabilidade dos dados (data provenance) e facilita o deploy em diferentes plataformas.\n🔗 Material apresentado pode ser encontrado aqui\n🎙️ Sobre o palestrante:\nMarcel Ribeiro-Dantas atua como Developer Advocate na Seqera, empresa líder na área de tecnologia open source para orquestração de pipelines de dados, é doutor em Bioinformática pela Sorbonne Université e docente permanente do Programa de Pós-Graduação em Biotecnologia na Saúde da Universidade Potiguar (PPGB-UnP).\n\n\nConstruindo aplicações de IA generativa com a AWS\nNesta palestra, foi aprendido como a AWS vem apoiando seus clientes na construção de aplicações que usam IA Generativa, incluindo os principais serviços e como começar a usá-los. Foi visto também exemplos de arquiteturas e materiais práticos de recentes projetos da área.\n🔗 Material apresentado pode ser encontrado aqui\n🎙️ Sobre o palestrante:\nAndre Fellipe é Arquiteto de Soluções na Amazon Web Services (AWS) e formado em Engenharia Elétrica pela Universidade Federal do Rio Grande do Norte (UFRN). Com seis anos de experiência no mercado de tecnologia, ele vem ajudando clientes a migrarem e modernizarem seus workloads na nuvem da AWS. Recentemente, vem se especializando em como ajudar clientes a inovar em seus negócios com Inteligência Artificial Generativa."
+  },
+  {
+    "objectID": "posts/1-meetup-pydata-natal/index.html#organização-e-próximos-passos",
+    "href": "posts/1-meetup-pydata-natal/index.html#organização-e-próximos-passos",
+    "title": "Resumo do 1º Meetup PyData Natal",
+    "section": "Organização e próximos passos",
+    "text": "Organização e próximos passos\nNo momento estamos organizando o próximo meetup. A greve dos servidores e professores da UFRN, que busca melhores condições de trabalho e soluções para os salários defasados, faz com que momentaneamente busquemos outros espaços para o evento. Caso tenha uma sugestão de novo espaço que podemos utilizar, por favor comente aqui.\nNossa organização é aberta no github. Temos issues abertas para definir os próximos passos, assim como um kanban para que a comunidade possa acompanhar o trabalho. Dê pitaco, comente, abra issues, queremos organizar algo horizontalmente."
+  },
+  {
+    "objectID": "posts/1-meetup-pydata-natal/index.html#agradecimentos",
+    "href": "posts/1-meetup-pydata-natal/index.html#agradecimentos",
+    "title": "Resumo do 1º Meetup PyData Natal",
+    "section": "Agradecimentos",
+    "text": "Agradecimentos\nAgradecemos a você, que se interessou pelo evento, pela comunidade. Aos nossos apoiadores, que permitiram o evento acontecer, tanto o PyData/NumFOCUS quanto o Instituto Metrópole Digital/Metrópole Parque. Aos palestrantes, muito obrigado Marcel Ribeiro-Dantas e Andre Fellipe, a vontade de compartilhar conhecimento de vocês abrilhantou o meetup, só ouvi elogio e animação de tanto conceito e tecnologia nova aprendida na noite.\nUm agradecimento em especial as pessoas envolvidas na organização: Mariana Queiroz, Ísis Gomes, Thuanny Albuquerque."
   }
 ]
