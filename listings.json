@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/codigo_de_conduta/index.html",
       "/posts/1-meetup-pydata-natal/index.html",
       "/posts/welcome/index.html"
     ]
