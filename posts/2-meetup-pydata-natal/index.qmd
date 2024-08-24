@@ -3,7 +3,7 @@ title: "Resumo do 2º Meetup PyData Natal"
 author: "Emanuel Betcel"
 date: "2024-08-22"
 categories: [Comunidade, Meetup]
-image: path
+image: insta.jpg
 description: >
     Explore os principais tópicos discutidos e as novidades que marcaram o segundo encontro da comunidade PyData Natal.
 ---
@@ -18,21 +18,21 @@ Confira abaixo os materiais das apresentações, o resumo e as fotos do encontro
 
 O segundo encontro da comunidade aconteceu no dia 01 de agosto no 
 [Sebrae](https://sebrae.com.br/sites/PortalSebrae/ufs/rn), novamente em uma quinta-feira 
-à noite. Em números tivemos 
-[71 inscrições no evento](https://www.meetup.com/pt-BR/pydata-natal/events/299630475/) 
-e 38 comparecimentos, além dos 95 membros inscritos no meetup.com. 
+à noite. Em números 
+| Pessoas
+ -----|-----:
+Incritos no meetup.com | 169
+Inscritos no evento | 73
+Presenças no evento | 33
 
-O evento teve um apoio PyData/NumFOCUS, tanto na infra do meetup.com, 
-quanto no coffee-break (que contou com opções não-alergénicas e veganas da 
-[Eat Plant Foods](https://www.instagram.com/eatplants_foods/)). 
-O Instituto Metrópole Digital, além de ceder o espaço,
-apoiou a divulgação do evento em suas redes sociais.
+O evento teve apoio da Qdrant, biblioteca Open-Source para Vector Databases, e da beAnalytic, empresa natalense de consultoria para desenvolvimento de soluções de BI e Engenharia de Dados.
+Também contamos com o Sebrae para disponibilização do espaço.
 
-![Coffee-break do evento, apoio da PyData/NumFOCUS](coffee-break.jpg)
+![](adesivos.jpg)
 
 ## Palestras e materiais
 
-### Trazendo data provenance e reprodutibilidade para suas analises de dados em Python
+### O Futuro da Pesquisa de Dados: Entendendo a Busca Vetorial
 
 Nessa palestra foi explorado como o Nextflow pode revolucionar a maneira como construímos 
 e executamos pipelines de dados escritos em Python. O Nextflow é uma ferramenta poderosa 
