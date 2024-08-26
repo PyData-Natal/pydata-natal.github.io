@@ -1,0 +1,18 @@
+---
+title: "Código de conduta"
+author: "Leonardo Leano"
+date: "2024-08-22"
+categories: [CDC]
+image: thumbnail.jpg
+description: >
+    PyData é uma comunidade que segue um código de conduta que promove a inclusão. Pedimos que leiam atentamente:
+
+    "Seja gentil com os outros. Comporte-se profissionalmente. Lembre-se de que assédio e piadas com conotação sexista, racistas ou excludentes não são tolerados no PyData.
+    Toda comunicação deve ser apropriada para um público profissional, incluindo pessoas de diversas origens.
+
+    PyData se dedica a fornecer uma experiência de evento livre de assédio para todos, independentemente de gênero, orientação sexual, identidade e expressão de gênero, deficiência, aparência física, tamanho corporal, raça ou religião. Não toleramos qualquer forma de assédio aos participantes.
+
+    Obrigado por ajudar a tornar esta comunidade acolhedora e amigável para todos!"
+
+    A versão inteira do código de conduta pode ser encontrado aqui: https://pydata.org/code-of-conduct/
+---
