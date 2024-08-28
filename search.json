@@ -7,11 +7,46 @@
     "text": "Olá, estamos muito felizes que você está aqui!\nAo longo dos anos, observamos diversas iniciativas de comunidades focadas em Machine Learning, Inteligência Artificial e dados em geral. No entanto, em Natal, esses grupos raramente prosperaram, apesar do evidente interesse no assunto.\nPyData Natal surge inspirada por uma mistura de curiosidade e interesse, com o objetivo de explorar a vastidão de novas tecnologias, modelos e tudo o que envolve dados. Trazendo consigo a força da rede global de desenvolvedores e usuários de ferramentas open source PyData.\n\nA comunidade planeja encontros presenciais e utilizará este blog para registrar nossas atividades, compartilhar conhecimento e divulgar apresentações. Embora aqui seja um ponto de encontro virtual, nosso principal canal de comunicação e atualizações é o Meetup.com. Inscreva-se para acompanhar nossas novidades."
   },
   {
+    "objectID": "posts/2-meetup-pydata-natal/index.html",
+    "href": "posts/2-meetup-pydata-natal/index.html",
+    "title": "Resumo do 2º Meetup PyData Natal",
+    "section": "",
+    "text": "Após o sucesso do primeiro encontro no Instituto Metrópole Digital - UFRN, o PyData Natal realiza seu segundo meetup. Desta vez no Sebrae, o evento contou com duas palestras sobre temas de grande relevância no mundo dos dados. Confira abaixo os materiais das apresentações, o resumo e as fotos do encontro."
+  },
+  {
+    "objectID": "posts/2-meetup-pydata-natal/index.html#º-meetup-pydata",
+    "href": "posts/2-meetup-pydata-natal/index.html#º-meetup-pydata",
+    "title": "Resumo do 2º Meetup PyData Natal",
+    "section": "2º Meetup PyData",
+    "text": "2º Meetup PyData\nO segundo encontro da comunidade aconteceu no dia 01 de agosto no Sebrae, novamente em uma quinta-feira à noite. O evento teve 73 inscritos equanto já tempos 169 inscrições no meetup.com. Durante o evento realizamos um sorteio e a presença registrada foi de 33 pessoas.\nNa nossa segunda edição, contamos com apoio da Qdrant, biblioteca Open-Source para Vector Databases, e da beAnalytic, empresa natalense de consultoria para desenvolvimento de soluções de BI e Engenharia de Dados. Também contamos com o Sebrae para disponibilização do espaço.\n\n\n\nMaterial de divulgação do PyData Natal"
+  },
+  {
+    "objectID": "posts/2-meetup-pydata-natal/index.html#palestras-e-materiais",
+    "href": "posts/2-meetup-pydata-natal/index.html#palestras-e-materiais",
+    "title": "Resumo do 2º Meetup PyData Natal",
+    "section": "Palestras e materiais",
+    "text": "Palestras e materiais\n\nO Futuro da Pesquisa de Dados: Entendendo a Busca Vetorial\nNesta palestra, foi discutido os fundamentos da busca vetorial, o algoritmo HNSW e suas vantagens, além de aplicações práticas com demonstações de técnicas como Retrieval-Augmented Generation (RAG), detecção de anomalias e recomendações.\n\n\n\nContrução de base de conhecimento a partir de docs\n\n\n🔗 Material apresentado pode ser encontrado aqui\n🎙️ Sobre a palestrante:\nSabrina Aquino Sabrina Aquino é Developer Advocate da Qdrant, com experiência em desenvolvimento e advocacia de tecnologia.\n\n\nAcelerando a Integração de Dados com Airbyte: Uma Ferramenta Open Source Customizável e Eficiente\nA palestra discutiu como o Airbyte pode facilitar a integração de dados de várias fontes por meio de seus conectores pré-construídos. Foram levantados os principais componentes e o funcionamento da infraestrutura do Airbyte, bem como as diversas possibilidades de integração com outras ferramentas para a construção de um pipeline de dados completo. Além disso, foi apresentada a nova biblioteca PyAirbyte, uma nova feature da comunidade que permite codificar as configurações dos conectores utilizando Python, tornando a personalização e a gestão de conectores ainda mais eficiente.\n\n\n\nRegistro da apresentação\n\n\n🔗 Material apresentado pode ser encontrado aqui\n🎙️ Sobre as palestrantes:\nIsis é formada em Engenharia da Computação pela Universidade Federal do Rio Grande do Norte (UFRN) e possui pós-graduação em BI e Analytics pela mesma instituição. Atualmente, trabalha como Engenheira de Dados, com foco em ingestão, infraestrutura, tratamento e orquestração dos dados.\nMariana é formada em Engenharia da Computação pela Universidade Federal do Rio Grande do Norte (UFRN) e atua como Engenheira de Dados, com ênfase na construção de pipelines de ingestão de dados no contexto de bigdata."
+  },
+  {
+    "objectID": "posts/2-meetup-pydata-natal/index.html#organização-e-código-de-conduta",
+    "href": "posts/2-meetup-pydata-natal/index.html#organização-e-código-de-conduta",
+    "title": "Resumo do 2º Meetup PyData Natal",
+    "section": "Organização e Código de conduta",
+    "text": "Organização e Código de conduta\nNossa organização é aberta no github. Temos issues abertas, assim como um kanban, para que nossa comunidade possa discutir e também contrubir para o seu crescimento e melhoria.\nFazemos questão de relembrar que a PyData possui um código de conduta que promove a inclusão: “Seja gentil com os outros. Comporte-se profissionalmente. Lembre-se de que assédio e piadas com conotação sexista, racistas ou excludentes não são tolerados no PyData. Toda comunicação deve ser apropriada para um público profissional, incluindo pessoas de diversas origens.\nPyData se dedica a fornecer uma experiência de evento livre de assédio para todos, independentemente de gênero, orientação sexual, identidade e expressão de gênero, deficiência, aparência física, tamanho corporal, raça ou religião. Não toleramos qualquer forma de assédio aos participantes.\nObrigado por ajudar a tornar esta comunidade acolhedora e amigável para todos!”\nA versão inteira do código de conduta pode ser encontrado aqui."
+  },
+  {
+    "objectID": "posts/2-meetup-pydata-natal/index.html#agradecimentos",
+    "href": "posts/2-meetup-pydata-natal/index.html#agradecimentos",
+    "title": "Resumo do 2º Meetup PyData Natal",
+    "section": "Agradecimentos",
+    "text": "Agradecimentos\nAgradecemos a todos que compareceram ao evento, especialmente nossas palestrantes. Aos nossos apoiadores, BeAnalytic e QDrant, que permitiram que a noite fosse ainda melhor. Também aproveitamos para deixar o convite a quem se interessar em participar dos próximos meetups, independente do nível de conhecimento ou área de atuação, todas as pessoas são bem-vindas!"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Pydata",
     "section": "",
-    "text": "Código de conduta\n\n\n\n\n\n\nCDC\n\n\n\nPyData é uma comunidade que segue um código de conduta que promove a inclusão. Pedimos que leiam atentamente: “Seja gentil com os outros. Comporte-se profissionalmente. Lembre-se de que assédio e piadas com conotação sexista, racistas ou excludentes não são tolerados no PyData. Toda comunicação deve ser apropriada para um público profissional, incluindo pessoas de diversas origens. PyData se dedica a fornecer uma experiência de evento livre de assédio para todos, independentemente de gênero, orientação sexual, identidade e expressão de gênero, deficiência, aparência física, tamanho corporal, raça ou religião. Não toleramos qualquer forma de assédio aos participantes. Obrigado por ajudar a tornar esta comunidade acolhedora e amigável para todos!” A versão inteira do código de conduta pode ser encontrado aqui: https://pydata.org/code-of-conduct/ \n\n\n\n\n\nAug 22, 2024\n\n\nLeonardo Leano\n\n\n\n\n\n\n\n\n\n\n\n\nResumo do 1º Meetup PyData Natal\n\n\n\n\n\n\nComunidade\n\n\nMeetup\n\n\n\nConfira os materiais, as fotos, discussões e os próximos passos da comunidade de dados PyData Natal. \n\n\n\n\n\nMay 19, 2024\n\n\nÍtalo Epifânio\n\n\n\n\n\n\n\n\n\n\n\n\nBem vindo ao PyData Natal\n\n\n\n\n\n\nComunidade\n\n\n\nDescubra com a gente um universo de possibilidades com Python e Dados, através dos nossos encontros presenciais. Inscreva-se em nosso Meetup.com para não perder nenhuma atualização! \n\n\n\n\n\nFeb 7, 2024\n\n\nÍtalo Epifânio\n\n\n\n\n\n\nNo matching items"
+    "text": "Resumo do 2º Meetup PyData Natal\n\n\n\n\n\n\nComunidade\n\n\nMeetup\n\n\n\nExplore os principais tópicos discutidos e as novidades que marcaram o segundo encontro da comunidade PyData Natal. \n\n\n\n\n\nAug 22, 2024\n\n\nEmanuel Betcel\n\n\n\n\n\n\n\n\n\n\n\n\nResumo do 1º Meetup PyData Natal\n\n\n\n\n\n\nComunidade\n\n\nMeetup\n\n\n\nConfira os materiais, as fotos, discussões e os próximos passos da comunidade de dados PyData Natal. \n\n\n\n\n\nMay 19, 2024\n\n\nÍtalo Epifânio\n\n\n\n\n\n\n\n\n\n\n\n\nBem vindo ao PyData Natal\n\n\n\n\n\n\nComunidade\n\n\n\nDescubra com a gente um universo de possibilidades com Python e Dados, através dos nossos encontros presenciais. Inscreva-se em nosso Meetup.com para não perder nenhuma atualização! \n\n\n\n\n\nFeb 7, 2024\n\n\nÍtalo Epifânio\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/1-meetup-pydata-natal/index.html",
