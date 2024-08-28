@@ -17,8 +17,8 @@ Confira abaixo os materiais das apresentações, o resumo e as fotos do encontro
 ## 2º Meetup PyData
 
 O segundo encontro da comunidade aconteceu no dia 01 de agosto, novamente em uma quinta-feira 
-à noite. O evento teve 73 inscritos equanto já tempos 169 inscrições no meetup.com. Durante o evento realizamos um sorteio 
-e a presença registrada foi de 33 pessoas.
+à noite. O evento teve 73 inscritos equanto já tempos 169 inscrições no meetup.com. A presença foi de 44 pessoas e durante o evento realizamos um sorteio 
+de uma canceca com 33 participantes.
 
 Na nossa segunda edição, contamos com apoio da Qdrant, biblioteca Open-Source para Vector Databases, e da beAnalytic, empresa natalense de consultoria para desenvolvimento de soluções de BI e Engenharia de Dados.
 Também contamos com o Sebrae para disponibilização do espaço.
