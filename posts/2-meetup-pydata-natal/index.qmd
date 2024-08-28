@@ -16,8 +16,7 @@ Confira abaixo os materiais das apresentações, o resumo e as fotos do encontro
 
 ## 2º Meetup PyData
 
-O segundo encontro da comunidade aconteceu no dia 01 de agosto no 
-[Sebrae](https://sebrae.com.br/sites/PortalSebrae/ufs/rn), novamente em uma quinta-feira 
+O segundo encontro da comunidade aconteceu no dia 01 de agosto, novamente em uma quinta-feira 
 à noite. O evento teve 73 inscritos equanto já tempos 169 inscrições no meetup.com. Durante o evento realizamos um sorteio 
 e a presença registrada foi de 33 pessoas.
 
