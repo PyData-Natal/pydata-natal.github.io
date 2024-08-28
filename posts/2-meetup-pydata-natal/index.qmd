@@ -23,7 +23,7 @@ e a presença registrada foi de 33 pessoas.
 Na nossa segunda edição, contamos com apoio da Qdrant, biblioteca Open-Source para Vector Databases, e da beAnalytic, empresa natalense de consultoria para desenvolvimento de soluções de BI e Engenharia de Dados.
 Também contamos com o Sebrae para disponibilização do espaço.
 
-![Material de divulgação do PyData Natal](adesivos.jpg)
+![Doação de adesivos e sorteio de caneca](adesivos.jpg)
 
 ## Palestras e materiais
 
