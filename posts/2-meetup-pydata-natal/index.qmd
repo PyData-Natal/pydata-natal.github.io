@@ -69,7 +69,7 @@ ingestão de dados no contexto de bigdata.
 
 Nossa organização é [aberta no github](https://github.com/PyData-Natal). 
 Temos [issues abertas](https://github.com/PyData-Natal/organizacao), assim como [um kanban](https://github.com/orgs/PyData-Natal/projects/1), para que nossa comunidade possa discutir e também
-contrubir para o seu crescimento e melhoria.
+contribuir para o seu crescimento e melhoria.
 
 Fazemos questão de relembrar que a PyData possui um código de conduta que promove a inclusão:
 "Seja gentil com os outros. Comporte-se profissionalmente. Lembre-se de que assédio e piadas com conotação sexista, racistas ou excludentes não são tolerados no PyData.
