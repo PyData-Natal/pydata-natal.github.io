@@ -8,7 +8,7 @@ description: >
     Explore os principais tópicos discutidos e as novidades que marcaram o segundo encontro da comunidade PyData Natal.
 ---
 
-Após o sucesso do primeiro encontro no Instituto Metrópole Digital - UFRN, o PyData Natal realiza seu segundo meetup.
+Após o sucesso do primeiro encontro no Instituto Metrópole Digital - UFRN, o PyData Natal realizou seu segundo meetup.
 Desta vez no Sebrae, o evento contou com duas palestras sobre temas de grande relevância no mundo dos dados.
 Confira abaixo os materiais das apresentações, o resumo e as fotos do encontro.
 
