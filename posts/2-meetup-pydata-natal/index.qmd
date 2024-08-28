@@ -33,7 +33,7 @@ Nesta palestra, foi discutido os fundamentos da busca vetorial, o algoritmo HNSW
 além de aplicações práticas com demonstações de técnicas
 como Retrieval-Augmented Generation (RAG), detecção de anomalias e recomendações.
 
-![Contrução de base de conhecimento a partir de docs](qdrant.jpg)
+![Palestra Qdrant](qdrant.jpg)
 
 🔗 [Material apresentado pode ser encontrado aqui](https://docs.google.com/presentation/d/1rrO0vEgPONENjW5SYyoB_7MjfC_QIuVvoqEgujfC02M/edit#slide=id.p1)
 
