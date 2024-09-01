@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://PyData-Natal.github.io/pydata-natal.github.io/posts/welcome/index.html</loc>
-    <lastmod>2024-09-01T14:04:16.103Z</lastmod>
+    <lastmod>2024-09-01T14:09:35.964Z</lastmod>
   </url>
   <url>
-    <loc>https://PyData-Natal.github.io/pydata-natal.github.io/posts/2-meetup-pydata-natal/index.html</loc>
-    <lastmod>2024-09-01T14:04:16.103Z</lastmod>
+    <loc>https://PyData-Natal.github.io/pydata-natal.github.io/posts/codigo_de_conduta/index.html</loc>
+    <lastmod>2024-09-01T14:09:35.964Z</lastmod>
   </url>
   <url>
     <loc>https://PyData-Natal.github.io/pydata-natal.github.io/index.html</loc>
-    <lastmod>2024-09-01T14:04:16.095Z</lastmod>
+    <lastmod>2024-09-01T14:09:35.956Z</lastmod>
+  </url>
+  <url>
+    <loc>https://PyData-Natal.github.io/pydata-natal.github.io/posts/2-meetup-pydata-natal/index.html</loc>
+    <lastmod>2024-09-01T14:09:35.964Z</lastmod>
   </url>
   <url>
     <loc>https://PyData-Natal.github.io/pydata-natal.github.io/posts/1-meetup-pydata-natal/index.html</loc>
-    <lastmod>2024-09-01T14:04:16.099Z</lastmod>
+    <lastmod>2024-09-01T14:09:35.956Z</lastmod>
   </url>
 </urlset>
