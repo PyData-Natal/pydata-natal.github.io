@@ -23,7 +23,7 @@ de uma canceca com 33 participantes.
 Na nossa segunda edição, contamos com apoio da Qdrant, biblioteca Open-Source para Vector Databases, e da beAnalytic, empresa natalense de consultoria para desenvolvimento de soluções de BI e Engenharia de Dados.
 Também contamos com o Sebrae para disponibilização do espaço.
 
-![Doação de adesivos e sorteio de caneca](adesivos.jpg)
+![Distribuição de adesivos e sorteio de caneca](adesivos.jpg)
 
 ## Palestras e materiais
 
@@ -39,8 +39,10 @@ como Retrieval-Augmented Generation (RAG), detecção de anomalias e recomendaç
 
 🎙️ **Sobre a palestrante:**
 
-[Sabrina Aquino](https://docs.google.com/presentation/d/1mbv-uyh7beTA_FgXlhb46hSgFkQeP-Wi/edit?usp=sharing&ouid=105025288153890058731&rtpof=true&sd=true) Sabrina Aquino é 
+[Sabrina Aquino](https://docs.google.com/presentation/d/1mbv-uyh7beTA_FgXlhb46hSgFkQeP-Wi/edit?usp=sharing&ouid=105025288153890058731&rtpof=true&sd=true) é 
 Developer Advocate da Qdrant, com experiência em desenvolvimento e advocacia de tecnologia.
+
+![Coffee break](coffee_break.jpg)
 
 ### Acelerando a Integração de Dados com Airbyte: Uma Ferramenta Open Source Customizável e Eficiente
 
