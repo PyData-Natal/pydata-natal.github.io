@@ -3,7 +3,7 @@ title: "Resumo do 2º Meetup PyData Natal"
 author: "Emanuel Betcel"
 date: "2024-08-22"
 categories: [Comunidade, Meetup]
-image: insta.jpg
+image: divulgacao_1_meetup.png
 description: >
     Explore os principais tópicos discutidos e as novidades que marcaram o segundo encontro da comunidade PyData Natal.
 ---
