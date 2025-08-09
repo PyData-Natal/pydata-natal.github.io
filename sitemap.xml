@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://PyData-Natal.github.io/pydata-natal.github.io/posts/2-meetup-pydata-natal/index.html</loc>
-    <lastmod>2025-08-04T22:37:57.625Z</lastmod>
-  </url>
-  <url>
-    <loc>https://PyData-Natal.github.io/pydata-natal.github.io/posts/3-meetup-pydata-natal/index.html</loc>
-    <lastmod>2025-08-04T22:37:57.628Z</lastmod>
+    <loc>https://PyData-Natal.github.io/pydata-natal.github.io/index.html</loc>
+    <lastmod>2025-08-09T12:59:24.640Z</lastmod>
   </url>
   <url>
     <loc>https://PyData-Natal.github.io/pydata-natal.github.io/posts/welcome/index.html</loc>
-    <lastmod>2025-08-04T22:37:57.629Z</lastmod>
-  </url>
-  <url>
-    <loc>https://PyData-Natal.github.io/pydata-natal.github.io/index.html</loc>
-    <lastmod>2025-08-04T22:37:57.618Z</lastmod>
-  </url>
-  <url>
-    <loc>https://PyData-Natal.github.io/pydata-natal.github.io/posts/1-meetup-pydata-natal/index.html</loc>
-    <lastmod>2025-08-04T22:37:57.620Z</lastmod>
+    <lastmod>2025-08-09T12:59:24.651Z</lastmod>
   </url>
   <url>
     <loc>https://PyData-Natal.github.io/pydata-natal.github.io/posts/codigo_de_conduta/index.html</loc>
-    <lastmod>2025-08-04T22:37:57.629Z</lastmod>
+    <lastmod>2025-08-09T12:59:24.651Z</lastmod>
+  </url>
+  <url>
+    <loc>https://PyData-Natal.github.io/pydata-natal.github.io/posts/3-meetup-pydata-natal/index.html</loc>
+    <lastmod>2025-08-09T12:59:24.650Z</lastmod>
+  </url>
+  <url>
+    <loc>https://PyData-Natal.github.io/pydata-natal.github.io/posts/2-meetup-pydata-natal/index.html</loc>
+    <lastmod>2025-08-09T12:59:24.647Z</lastmod>
+  </url>
+  <url>
+    <loc>https://PyData-Natal.github.io/pydata-natal.github.io/posts/1-meetup-pydata-natal/index.html</loc>
+    <lastmod>2025-08-09T12:59:24.642Z</lastmod>
   </url>
 </urlset>
