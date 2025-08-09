@@ -17,8 +17,7 @@ Confira abaixo os materiais das apresentações, o resumo e as fotos do encontro
 ## 3º Meetup PyData
 
 O segundo encontro da comunidade aconteceu no dia 01 de agosto, novamente em uma quinta-feira 
-à noite. O evento teve 77 inscritos equanto já tempos 169 inscrições no meetup.com. A presença foi de 44 pessoas e durante o evento realizamos um sorteio 
-de uma canceca com 33 participantes.
+à noite. O evento teve 77 inscritos equanto já tempos 169 inscrições no meetup.com. A presença foi de 44 pessoas e durante o evento realizamos um sorteio de kits da Python Nordeste,com 33 participantes.
 
 ## Palestras e materiais
 
@@ -48,12 +47,12 @@ Um dos desafios das organizações é criar e analisar as métricas seja de um t
 
 A biblioteca Streamlit veio trazer a facilidade em criar as métricas e extração de dados até a exibição deles dentro dos mesmos códigos, minimizando a necessidade de exportar os dados para uso em ferramentas de BI. Essa biblioteca possui uma grande contribuição da comunidade, possui diversas integrações e conta com uma interface gráfica simples e funcional.
 
-![Registro da apresentação](https://drive.google.com/file/d/1NkSJ0ml3a63OQP2aFD3gzNNGe0LYqCi_/view?usp=drive_link)
+![Registro da apresentação](imagem_da_palestra_3_pydata.jpg)
 
 
 🎙️ **Sobre as palestrantes:**
 
-[Paulo Eduardo Azevedo da Costa](https://www.linkedin.com/in/isisgo/)
+[Paulo Eduardo Azevedo da Costa]
 
 
 Sou o Paulo Eduardo, pai, esposo e potiguar. 
@@ -80,5 +79,5 @@ A versão inteira do código de conduta pode ser encontrado [aqui](https://pydat
 
 ## Agradecimentos
 
-Agradecemos a todos que compareceram ao evento, especialmente nossas palestrantes. Aos nossos apoiadores, BeAnalytic e QDrant, que permitiram que a noite fosse ainda melhor.  Também aproveitamos para deixar o convite 
+Agradecemos a todos que compareceram ao evento, especialmente aos palestrantes. Também aproveitamos para deixar o convite 
 a quem se interessar em participar dos próximos meetups, independente do nível de conhecimento ou área de atuação, todas as pessoas são bem-vindas!
