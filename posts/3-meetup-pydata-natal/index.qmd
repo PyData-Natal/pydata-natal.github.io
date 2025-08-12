@@ -1,0 +1,83 @@
+---
+title: "Resumo do 3º Meetup PyData Natal"
+author: "Leonardo Leano"
+date: "2024-08-22"
+categories: [Comunidade, Meetup]
+image: chamada_3_pydata.png
+description: >
+    Explore os principais tópicos discutidos e as novidades que marcaram o segundo encontro da comunidade PyData Natal.
+---
+
+Após o sucesso do segundo encontro no Instituto Metrópole Digital - UFRN, o PyData Natal realizou seu terceiro meetup.
+Desta vez no IFRN- IMD, o evento contou com duas palestras sobre temas de grande relevância no mundo dos dados.
+Confira abaixo os materiais das apresentações, o resumo e as fotos do encontro.
+
+![Foto oficial. Todas as fotos [podem ser acessadas aqui](https://drive.google.com/drive/folders/1gwmU6XgEI1unsYh4fvbbmanwEMEpB6v-)](foto_oficial_3_meetup.jpg)
+
+## 3º Meetup PyData
+
+O segundo encontro da comunidade aconteceu no dia 01 de agosto, novamente em uma quinta-feira 
+à noite. O evento teve 77 inscritos enquanto já tempos 169 inscrições no meetup.com. A presença foi de 44 pessoas e durante o evento realizamos um sorteio de kits da Python Nordeste,com 33 participantes.
+
+## Palestras e materiais
+
+### Evitando gastar com cloud no aprendizado de dados abordagem com pyspark e jupterlab
+
+Ao estudar dados a gente se depara com pandas, pyspark e outras ferramentas e a medida que o
+ estudo vai avançando encontramos diversos cursos que utilizam de ferramentas de cloud para 
+ trabalhar com um número razoável de dados. A ideia é apresentar alternativa para se trabalhar
+  em ambiente local com docker para utilizar as ferramentas de data analysis jupyterlab, 
+  pandas e pyspark partindo de análises de bases pequenas para estudo.
+
+🔗 [Material apresentado pode ser encontrado aqui](https://drive.google.com/drive/folders/121t7RUKmb85_7AUMM3rHuvjmX3adVa2W)
+🔗 [Material github](https://github.com/leonardoleanodev/pyspark_example)
+
+
+🎙️ **Sobre a palestrante:**
+
+[Leonardo Leano](https://github.com/leonardoleanodev)
+
+É Mestre em Física e trabalha com python a 6 anos, navegou  em varias areas envolvendo python e dados, desde ciencia de dados, desenvolvimento web e engenharia de dados.
+
+---
+
+### Simplificando o ETL: Criando e analisando métricas usando a biblioteca Streamlit
+
+Um dos desafios das organizações é criar e analisar as métricas seja de um time interno ou de ferramentas. Para isso, muitos analistas de dados consomem API's de diversas ferramentas/sistemas através de scripts de ETL para fomentar ferramentas de BI.
+
+A biblioteca Streamlit veio trazer a facilidade em criar as métricas e extração de dados até a exibição deles dentro dos mesmos códigos, minimizando a necessidade de exportar os dados para uso em ferramentas de BI. Essa biblioteca possui uma grande contribuição da comunidade, possui diversas integrações e conta com uma interface gráfica simples e funcional.
+
+![Registro da apresentação](imagem_da_palestra_3_pydata.jpg)
+
+
+🎙️ **Sobre as palestrantes:**
+
+[Paulo Eduardo Azevedo da Costa]
+
+
+Sou o Paulo Eduardo, pai, esposo e potiguar. 
+
+Atualmente trabalhando na empresa DealerSpace no cargo de DevOps TechLead. Possuo mais de 10 anos de experiência com infraestrutura e redes e nos 5 últimos anos dedicados ao DevOps.
+
+Além da paixão pelo DevOps também sou entusiasta de Python, Dados, Machine Learning e IA. Onde cada uma delas complementa bastante o que me tornou um TeachLead.
+
+## Organização e Código de conduta
+
+Nossa organização é [aberta no github](https://github.com/PyData-Natal). 
+Temos [issues abertas](https://github.com/PyData-Natal/organizacao), assim como [um kanban](https://github.com/orgs/PyData-Natal/projects/1), para que nossa comunidade possa discutir e também
+contribuir para o seu crescimento e melhoria.
+
+Fazemos questão de relembrar que a PyData possui um código de conduta que promove a inclusão:
+"Seja gentil com os outros. Comporte-se profissionalmente. Lembre-se de que assédio e piadas com conotação sexista, racistas ou excludentes não são tolerados no PyData.
+Toda comunicação deve ser apropriada para um público profissional, incluindo pessoas de diversas origens.
+
+PyData se dedica a fornecer uma experiência de evento livre de assédio para todos, independentemente de gênero, orientação sexual, identidade e expressão de gênero, deficiência, aparência física, tamanho corporal, raça ou religião. Não toleramos qualquer forma de assédio aos participantes.
+
+Obrigado por ajudar a tornar esta comunidade acolhedora e amigável para todos!"
+
+A versão inteira do código de conduta pode ser encontrado [aqui](https://pydata.org/code-of-conduct/).
+
+## Agradecimentos
+
+Agradecemos a todos que compareceram ao evento, especialmente aos palestrantes. Também aproveitamos para deixar o convite 
+a quem se interessar em participar dos próximos meetups, independente do nível de conhecimento ou área de atuação, todas as pessoas são bem-vindas!
