@@ -17,7 +17,7 @@ Confira abaixo os materiais das apresentações, o resumo e as fotos do encontro
 ## 3º Meetup PyData
 
 O segundo encontro da comunidade aconteceu no dia 01 de agosto, novamente em uma quinta-feira 
-à noite. O evento teve 77 inscritos equanto já tempos 169 inscrições no meetup.com. A presença foi de 44 pessoas e durante o evento realizamos um sorteio de kits da Python Nordeste,com 33 participantes.
+à noite. O evento teve 77 inscritos enquanto já tempos 169 inscrições no meetup.com. A presença foi de 44 pessoas e durante o evento realizamos um sorteio de kits da Python Nordeste,com 33 participantes.
 
 ## Palestras e materiais
 
@@ -25,9 +25,9 @@ O segundo encontro da comunidade aconteceu no dia 01 de agosto, novamente em uma
 
 Ao estudar dados a gente se depara com pandas, pyspark e outras ferramentas e a medida que o
  estudo vai avançando encontramos diversos cursos que utilizam de ferramentas de cloud para 
- trabalhar com um número razoavel de dados. A ideia é apresentar alternativa para se trabalhar
-  em ambiente local com docker para utilizar as ferramentas de data analisis jupyterlab, 
-  pandas e pyspark partindo de analizes de bases pequenas para estudo.
+ trabalhar com um número razoável de dados. A ideia é apresentar alternativa para se trabalhar
+  em ambiente local com docker para utilizar as ferramentas de data analysis jupyterlab, 
+  pandas e pyspark partindo de análises de bases pequenas para estudo.
 
 🔗 [Material apresentado pode ser encontrado aqui](https://drive.google.com/drive/folders/121t7RUKmb85_7AUMM3rHuvjmX3adVa2W)
 🔗 [Material github](https://github.com/leonardoleanodev/pyspark_example)
@@ -37,7 +37,7 @@ Ao estudar dados a gente se depara com pandas, pyspark e outras ferramentas e a 
 
 [Leonardo Leano](https://github.com/leonardoleanodev)
 
-É Mestre em Fisica e trabalha com python a 6 anos, navegou  em varias areas envolvendo python e dados, desde ciencia de dados, desenvolvimento web e engenharia de dados.
+É Mestre em Física e trabalha com python a 6 anos, navegou  em varias areas envolvendo python e dados, desde ciencia de dados, desenvolvimento web e engenharia de dados.
 
 ---
 
