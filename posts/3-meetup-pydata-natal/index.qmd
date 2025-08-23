@@ -1,7 +1,7 @@
 ---
 title: "Resumo do 3º Meetup PyData Natal"
 author: "Leonardo Leano"
-date: "2024-08-22"
+date: "2025-08-03"
 categories: [Comunidade, Meetup]
 image: chamada_3_pydata.png
 description: >
