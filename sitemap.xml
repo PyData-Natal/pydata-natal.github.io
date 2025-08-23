@@ -1,27 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://PyData-Natal.github.io/pydata-natal.github.io/index.html</loc>
-    <lastmod>2025-08-12T12:22:14.143Z</lastmod>
-  </url>
-  <url>
-    <loc>https://PyData-Natal.github.io/pydata-natal.github.io/posts/welcome/index.html</loc>
-    <lastmod>2025-08-12T12:22:14.155Z</lastmod>
-  </url>
-  <url>
-    <loc>https://PyData-Natal.github.io/pydata-natal.github.io/posts/codigo_de_conduta/index.html</loc>
-    <lastmod>2025-08-12T12:22:14.155Z</lastmod>
-  </url>
-  <url>
-    <loc>https://PyData-Natal.github.io/pydata-natal.github.io/posts/3-meetup-pydata-natal/index.html</loc>
-    <lastmod>2025-08-12T12:22:14.155Z</lastmod>
-  </url>
-  <url>
-    <loc>https://PyData-Natal.github.io/pydata-natal.github.io/posts/2-meetup-pydata-natal/index.html</loc>
-    <lastmod>2025-08-12T12:22:14.150Z</lastmod>
+    <loc>https://PyData-Natal.github.io/pydata-natal.github.io/INDEX_TEMPLATE.html</loc>
+    <lastmod>2025-08-23T20:54:40.359Z</lastmod>
   </url>
   <url>
     <loc>https://PyData-Natal.github.io/pydata-natal.github.io/posts/1-meetup-pydata-natal/index.html</loc>
-    <lastmod>2025-08-12T12:22:14.145Z</lastmod>
+    <lastmod>2025-08-23T20:54:40.361Z</lastmod>
+  </url>
+  <url>
+    <loc>https://PyData-Natal.github.io/pydata-natal.github.io/posts/2-meetup-pydata-natal/index.html</loc>
+    <lastmod>2025-08-23T20:54:40.366Z</lastmod>
+  </url>
+  <url>
+    <loc>https://PyData-Natal.github.io/pydata-natal.github.io/posts/codigo_de_conduta/index.html</loc>
+    <lastmod>2025-08-23T20:54:40.387Z</lastmod>
+  </url>
+  <url>
+    <loc>https://PyData-Natal.github.io/pydata-natal.github.io/posts/3-meetup-pydata-natal/index.html</loc>
+    <lastmod>2025-08-23T20:54:40.370Z</lastmod>
+  </url>
+  <url>
+    <loc>https://PyData-Natal.github.io/pydata-natal.github.io/posts/4-meetup-pydata-natal/index.html</loc>
+    <lastmod>2025-08-23T20:54:40.386Z</lastmod>
+  </url>
+  <url>
+    <loc>https://PyData-Natal.github.io/pydata-natal.github.io/posts/welcome/index.html</loc>
+    <lastmod>2025-08-23T20:54:40.387Z</lastmod>
+  </url>
+  <url>
+    <loc>https://PyData-Natal.github.io/pydata-natal.github.io/index.html</loc>
+    <lastmod>2025-08-23T20:54:40.359Z</lastmod>
   </url>
 </urlset>

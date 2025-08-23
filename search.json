@@ -1,52 +1,59 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Pydata",
+    "objectID": "INDEX_TEMPLATE.html",
+    "href": "INDEX_TEMPLATE.html",
+    "title": "Resumo do 4º Meetup PyData Natal",
     "section": "",
-    "text": "Resumo do 3º Meetup PyData Natal\n\n\n\nComunidade\n\nMeetup\n\n\n\nExplore os principais tópicos discutidos e as novidades que marcaram o segundo encontro da comunidade PyData Natal.\n\n\n\n\n\nAug 22, 2024\n\n\nLeonardo Leano\n\n\n\n\n\n\n\n\n\n\n\n\nCódigo de conduta\n\n\n\nCDC\n\n\n\nPyData é uma comunidade que segue um código de conduta que promove a inclusão. Pedimos que leiam atentamente: “Seja gentil com os outros. Comporte-se profissionalmente. Lembre-se de que assédio e piadas com conotação sexista, racistas ou excludentes não são tolerados no PyData. Toda comunicação deve ser apropriada para um público profissional, incluindo pessoas de diversas origens. PyData se dedica a fornecer uma experiência de evento livre de assédio para todos, independentemente de gênero, orientação sexual, identidade e expressão de gênero, deficiência, aparência física, tamanho corporal, raça ou religião. Não toleramos qualquer forma de assédio aos participantes. Obrigado por ajudar a tornar esta comunidade acolhedora e amigável para todos!” A versão inteira do código de conduta pode ser encontrado aqui: https://pydata.org/code-of-conduct/\n\n\n\n\n\nAug 22, 2024\n\n\nLeonardo Leano\n\n\n\n\n\n\n\n\n\n\n\n\nResumo do 2º Meetup PyData Natal\n\n\n\nComunidade\n\nMeetup\n\n\n\nExplore os principais tópicos discutidos e as novidades que marcaram o segundo encontro da comunidade PyData Natal.\n\n\n\n\n\nAug 22, 2024\n\n\nEmanuel Betcel\n\n\n\n\n\n\n\n\n\n\n\n\nResumo do 1º Meetup PyData Natal\n\n\n\nComunidade\n\nMeetup\n\n\n\nConfira os materiais, as fotos, discussões e os próximos passos da comunidade de dados PyData Natal.\n\n\n\n\n\nMay 19, 2024\n\n\nÍtalo Epifânio\n\n\n\n\n\n\n\n\n\n\n\n\nBem vindo ao PyData Natal\n\n\n\nComunidade\n\n\n\nDescubra com a gente um universo de possibilidades com Python e Dados, através dos nossos encontros presenciais. Inscreva-se em nosso Meetup.com para não perder nenhuma atualização!\n\n\n\n\n\nFeb 7, 2024\n\n\nÍtalo Epifânio\n\n\n\n\n\nNo matching items"
+    "text": "Após o sucesso do terceiro encontro no Instituto Metrópole Digital - UFRN, o PyData Natal realizou seu terceiro meetup. Desta vez no IFRN- IMD, o evento contou com duas palestras sobre temas de grande relevância no mundo dos dados. Confira abaixo os materiais das apresentações, o resumo e as fotos do encontro."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Bem vindo ao PyData Natal",
-    "section": "",
-    "text": "Olá, estamos muito felizes que você está aqui!\nAo longo dos anos, observamos diversas iniciativas de comunidades focadas em Machine Learning, Inteligência Artificial e dados em geral. No entanto, em Natal, esses grupos raramente prosperaram, apesar do evidente interesse no assunto.\nPyData Natal surge inspirada por uma mistura de curiosidade e interesse, com o objetivo de explorar a vastidão de novas tecnologias, modelos e tudo o que envolve dados. Trazendo consigo a força da rede global de desenvolvedores e usuários de ferramentas open source PyData.\n\nA comunidade planeja encontros presenciais e utilizará este blog para registrar nossas atividades, compartilhar conhecimento e divulgar apresentações. Embora aqui seja um ponto de encontro virtual, nosso principal canal de comunicação e atualizações é o Meetup.com. Inscreva-se para acompanhar nossas novidades."
+    "objectID": "INDEX_TEMPLATE.html#º-meetup-pydata",
+    "href": "INDEX_TEMPLATE.html#º-meetup-pydata",
+    "title": "Resumo do 4º Meetup PyData Natal",
+    "section": "4º Meetup PyData",
+    "text": "4º Meetup PyData\nO quarto encontro da comunidade aconteceu no dia 01 de agosto, novamente em uma quinta-feira à noite. O evento teve 77 inscritos enquanto já tempos 169 inscrições no meetup.com. A presença foi de 44 pessoas e durante o evento realizamos um sorteio de kits da Python Nordeste,com 33 participantes.\n🎙️ Sobre a palestrante:\n \n\n\n\n\n\n\n\n\nRegistro da apresentação\n\n\n🎙️ Sobre a palestrante:\n\n\n\n\n\n\n\n\n\n\nRegistro da apresentação\n\n\nNossa organização é aberta no github. Temos issues abertas, assim como um kanban, para que nossa comunidade possa discutir e também contribuir para o seu crescimento e melhoria.\nFazemos questão de relembrar que a PyData possui um código de conduta que promove a inclusão: “Seja gentil com os outros. Comporte-se profissionalmente. Lembre-se de que assédio e piadas com conotação sexista, racistas ou excludentes não são tolerados no PyData. Toda comunicação deve ser apropriada para um público profissional, incluindo pessoas de diversas origens.\nPyData se dedica a fornecer uma experiência de evento livre de assédio para todos, independentemente de gênero, orientação sexual, identidade e expressão de gênero, deficiência, aparência física, tamanho corporal, raça ou religião. Não toleramos qualquer forma de assédio aos participantes.\nObrigado por ajudar a tornar esta comunidade acolhedora e amigável para todos!”\nA versão inteira do código de conduta pode ser encontrado aqui."
   },
   {
-    "objectID": "posts/3-meetup-pydata-natal/index.html",
-    "href": "posts/3-meetup-pydata-natal/index.html",
-    "title": "Resumo do 3º Meetup PyData Natal",
-    "section": "",
-    "text": "Após o sucesso do segundo encontro no Instituto Metrópole Digital - UFRN, o PyData Natal realizou seu terceiro meetup. Desta vez no IFRN- IMD, o evento contou com duas palestras sobre temas de grande relevância no mundo dos dados. Confira abaixo os materiais das apresentações, o resumo e as fotos do encontro."
-  },
-  {
-    "objectID": "posts/3-meetup-pydata-natal/index.html#º-meetup-pydata",
-    "href": "posts/3-meetup-pydata-natal/index.html#º-meetup-pydata",
-    "title": "Resumo do 3º Meetup PyData Natal",
-    "section": "3º Meetup PyData",
-    "text": "3º Meetup PyData\nO segundo encontro da comunidade aconteceu no dia 01 de agosto, novamente em uma quinta-feira à noite. O evento teve 77 inscritos enquanto já tempos 169 inscrições no meetup.com. A presença foi de 44 pessoas e durante o evento realizamos um sorteio de kits da Python Nordeste,com 33 participantes."
-  },
-  {
-    "objectID": "posts/3-meetup-pydata-natal/index.html#palestras-e-materiais",
-    "href": "posts/3-meetup-pydata-natal/index.html#palestras-e-materiais",
-    "title": "Resumo do 3º Meetup PyData Natal",
-    "section": "Palestras e materiais",
-    "text": "Palestras e materiais\n\nEvitando gastar com cloud no aprendizado de dados abordagem com pyspark e jupterlab\nAo estudar dados a gente se depara com pandas, pyspark e outras ferramentas e a medida que o estudo vai avançando encontramos diversos cursos que utilizam de ferramentas de cloud para trabalhar com um número razoável de dados. A ideia é apresentar alternativa para se trabalhar em ambiente local com docker para utilizar as ferramentas de data analysis jupyterlab, pandas e pyspark partindo de análises de bases pequenas para estudo.\n🔗 Material apresentado pode ser encontrado aqui 🔗 Material github\n🎙️ Sobre a palestrante:\nLeonardo Leano\nÉ Mestre em Física e trabalha com python a 6 anos, navegou em varias areas envolvendo python e dados, desde ciencia de dados, desenvolvimento web e engenharia de dados.\n\n\n\nSimplificando o ETL: Criando e analisando métricas usando a biblioteca Streamlit\nUm dos desafios das organizações é criar e analisar as métricas seja de um time interno ou de ferramentas. Para isso, muitos analistas de dados consomem API’s de diversas ferramentas/sistemas através de scripts de ETL para fomentar ferramentas de BI.\nA biblioteca Streamlit veio trazer a facilidade em criar as métricas e extração de dados até a exibição deles dentro dos mesmos códigos, minimizando a necessidade de exportar os dados para uso em ferramentas de BI. Essa biblioteca possui uma grande contribuição da comunidade, possui diversas integrações e conta com uma interface gráfica simples e funcional.\n\n\n\nRegistro da apresentação\n\n\n🎙️ Sobre as palestrantes:\n[Paulo Eduardo Azevedo da Costa]\nSou o Paulo Eduardo, pai, esposo e potiguar.\nAtualmente trabalhando na empresa DealerSpace no cargo de DevOps TechLead. Possuo mais de 10 anos de experiência com infraestrutura e redes e nos 5 últimos anos dedicados ao DevOps.\nAlém da paixão pelo DevOps também sou entusiasta de Python, Dados, Machine Learning e IA. Onde cada uma delas complementa bastante o que me tornou um TeachLead."
-  },
-  {
-    "objectID": "posts/3-meetup-pydata-natal/index.html#organização-e-código-de-conduta",
-    "href": "posts/3-meetup-pydata-natal/index.html#organização-e-código-de-conduta",
-    "title": "Resumo do 3º Meetup PyData Natal",
-    "section": "Organização e Código de conduta",
-    "text": "Organização e Código de conduta\nNossa organização é aberta no github. Temos issues abertas, assim como um kanban, para que nossa comunidade possa discutir e também contribuir para o seu crescimento e melhoria.\nFazemos questão de relembrar que a PyData possui um código de conduta que promove a inclusão: “Seja gentil com os outros. Comporte-se profissionalmente. Lembre-se de que assédio e piadas com conotação sexista, racistas ou excludentes não são tolerados no PyData. Toda comunicação deve ser apropriada para um público profissional, incluindo pessoas de diversas origens.\nPyData se dedica a fornecer uma experiência de evento livre de assédio para todos, independentemente de gênero, orientação sexual, identidade e expressão de gênero, deficiência, aparência física, tamanho corporal, raça ou religião. Não toleramos qualquer forma de assédio aos participantes.\nObrigado por ajudar a tornar esta comunidade acolhedora e amigável para todos!”\nA versão inteira do código de conduta pode ser encontrado aqui."
-  },
-  {
-    "objectID": "posts/3-meetup-pydata-natal/index.html#agradecimentos",
-    "href": "posts/3-meetup-pydata-natal/index.html#agradecimentos",
-    "title": "Resumo do 3º Meetup PyData Natal",
+    "objectID": "INDEX_TEMPLATE.html#agradecimentos",
+    "href": "INDEX_TEMPLATE.html#agradecimentos",
+    "title": "Resumo do 4º Meetup PyData Natal",
     "section": "Agradecimentos",
     "text": "Agradecimentos\nAgradecemos a todos que compareceram ao evento, especialmente aos palestrantes. Também aproveitamos para deixar o convite a quem se interessar em participar dos próximos meetups, independente do nível de conhecimento ou área de atuação, todas as pessoas são bem-vindas!"
+  },
+  {
+    "objectID": "posts/1-meetup-pydata-natal/index.html",
+    "href": "posts/1-meetup-pydata-natal/index.html",
+    "title": "Resumo do 1º Meetup PyData Natal",
+    "section": "",
+    "text": "O primeiro encontro do PyData Natal foi um sucesso. O evento contou com duas palestras e uma roda de conversa que ajudou a organização a entender as expectativas da comunidade. Veja abaixo um resumo do evento, os materiais dos palestrantes e os próximos passos da comunidade PyData Natal."
+  },
+  {
+    "objectID": "posts/1-meetup-pydata-natal/index.html#º-meetup-pydata",
+    "href": "posts/1-meetup-pydata-natal/index.html#º-meetup-pydata",
+    "title": "Resumo do 1º Meetup PyData Natal",
+    "section": "1º Meetup PyData",
+    "text": "1º Meetup PyData\nO primeiro encontro da comunidade aconteceu no dia 11 de abril no Instituto Metrópole Digital, uma quinta-feira a noite. Em números tivemos 71 inscrições no evento e 38 comparecimentos, além dos 95 membros inscritos no meetup.com.\nO evento teve um apoio PyData/NumFOCUS, tanto na infra do meetup.com, quanto no coffee-break (que contou com opções não-alergénicas e veganas da Eat Plant Foods). O Instituto Metrópole Digital, além de ceder o espaço, apoiou a divulgação do evento em suas redes sociais.\n\n\n\nCoffee-break do evento, apoio da PyData/NumFOCUS"
+  },
+  {
+    "objectID": "posts/1-meetup-pydata-natal/index.html#palestras-e-materiais",
+    "href": "posts/1-meetup-pydata-natal/index.html#palestras-e-materiais",
+    "title": "Resumo do 1º Meetup PyData Natal",
+    "section": "Palestras e materiais",
+    "text": "Palestras e materiais\n\nTrazendo data provenance e reprodutibilidade para suas analises de dados em Python\nNessa palestra foi explorado como o Nextflow pode revolucionar a maneira como construímos e executamos pipelines de dados escritos em Python. O Nextflow é uma ferramenta poderosa que simplifica a criação de pipelines reprodutíveis, permite a rastreabilidade dos dados (data provenance) e facilita o deploy em diferentes plataformas.\n🔗 Material apresentado pode ser encontrado aqui\n🎙️ Sobre o palestrante:\nMarcel Ribeiro-Dantas atua como Developer Advocate na Seqera, empresa líder na área de tecnologia open source para orquestração de pipelines de dados, é doutor em Bioinformática pela Sorbonne Université e docente permanente do Programa de Pós-Graduação em Biotecnologia na Saúde da Universidade Potiguar (PPGB-UnP).\n\n\nConstruindo aplicações de IA generativa com a AWS\nNesta palestra, foi aprendido como a AWS vem apoiando seus clientes na construção de aplicações que usam IA Generativa, incluindo os principais serviços e como começar a usá-los. Foi visto também exemplos de arquiteturas e materiais práticos de recentes projetos da área.\n🔗 Material apresentado pode ser encontrado aqui\n🎙️ Sobre o palestrante:\nAndre Fellipe é Arquiteto de Soluções na Amazon Web Services (AWS) e formado em Engenharia Elétrica pela Universidade Federal do Rio Grande do Norte (UFRN). Com seis anos de experiência no mercado de tecnologia, ele vem ajudando clientes a migrarem e modernizarem seus workloads na nuvem da AWS. Recentemente, vem se especializando em como ajudar clientes a inovar em seus negócios com Inteligência Artificial Generativa."
+  },
+  {
+    "objectID": "posts/1-meetup-pydata-natal/index.html#organização-e-próximos-passos",
+    "href": "posts/1-meetup-pydata-natal/index.html#organização-e-próximos-passos",
+    "title": "Resumo do 1º Meetup PyData Natal",
+    "section": "Organização e próximos passos",
+    "text": "Organização e próximos passos\nNo momento estamos organizando o próximo meetup. A greve dos servidores e professores da UFRN, que busca melhores condições de trabalho e soluções para os salários defasados, faz com que momentaneamente busquemos outros espaços para o evento. Caso tenha uma sugestão de novo espaço que podemos utilizar, por favor comente aqui.\nNossa organização é aberta no github. Temos issues abertas para definir os próximos passos, assim como um kanban para que a comunidade possa acompanhar o trabalho. Dê pitaco, comente, abra issues, queremos organizar algo horizontalmente."
+  },
+  {
+    "objectID": "posts/1-meetup-pydata-natal/index.html#agradecimentos",
+    "href": "posts/1-meetup-pydata-natal/index.html#agradecimentos",
+    "title": "Resumo do 1º Meetup PyData Natal",
+    "section": "Agradecimentos",
+    "text": "Agradecimentos\nAgradecemos a você, que se interessou pelo evento, pela comunidade. Aos nossos apoiadores, que permitiram o evento acontecer, tanto o PyData/NumFOCUS quanto o Instituto Metrópole Digital/Metrópole Parque. Aos palestrantes, muito obrigado Marcel Ribeiro-Dantas e Andre Fellipe, a vontade de compartilhar conhecimento de vocês abrilhantou o meetup, só ouvi elogio e animação de tanto conceito e tecnologia nova aprendida na noite.\nUm agradecimento em especial as pessoas envolvidas na organização: Mariana Queiroz, Ísis Gomes, Thuanny Albuquerque."
   },
   {
     "objectID": "posts/2-meetup-pydata-natal/index.html",
@@ -84,38 +91,73 @@
     "text": "Agradecimentos\nAgradecemos a todos que compareceram ao evento, especialmente nossas palestrantes. Aos nossos apoiadores, BeAnalytic e QDrant, que permitiram que a noite fosse ainda melhor. Também aproveitamos para deixar o convite a quem se interessar em participar dos próximos meetups, independente do nível de conhecimento ou área de atuação, todas as pessoas são bem-vindas!"
   },
   {
-    "objectID": "posts/1-meetup-pydata-natal/index.html",
-    "href": "posts/1-meetup-pydata-natal/index.html",
-    "title": "Resumo do 1º Meetup PyData Natal",
+    "objectID": "posts/3-meetup-pydata-natal/index.html",
+    "href": "posts/3-meetup-pydata-natal/index.html",
+    "title": "Resumo do 3º Meetup PyData Natal",
     "section": "",
-    "text": "O primeiro encontro do PyData Natal foi um sucesso. O evento contou com duas palestras e uma roda de conversa que ajudou a organização a entender as expectativas da comunidade. Veja abaixo um resumo do evento, os materiais dos palestrantes e os próximos passos da comunidade PyData Natal."
+    "text": "Após o sucesso do segundo encontro no Instituto Metrópole Digital - UFRN, o PyData Natal realizou seu terceiro meetup. Desta vez no IFRN- IMD, o evento contou com duas palestras sobre temas de grande relevância no mundo dos dados. Confira abaixo os materiais das apresentações, o resumo e as fotos do encontro."
   },
   {
-    "objectID": "posts/1-meetup-pydata-natal/index.html#º-meetup-pydata",
-    "href": "posts/1-meetup-pydata-natal/index.html#º-meetup-pydata",
-    "title": "Resumo do 1º Meetup PyData Natal",
-    "section": "1º Meetup PyData",
-    "text": "1º Meetup PyData\nO primeiro encontro da comunidade aconteceu no dia 11 de abril no Instituto Metrópole Digital, uma quinta-feira a noite. Em números tivemos 71 inscrições no evento e 38 comparecimentos, além dos 95 membros inscritos no meetup.com.\nO evento teve um apoio PyData/NumFOCUS, tanto na infra do meetup.com, quanto no coffee-break (que contou com opções não-alergénicas e veganas da Eat Plant Foods). O Instituto Metrópole Digital, além de ceder o espaço, apoiou a divulgação do evento em suas redes sociais.\n\n\n\nCoffee-break do evento, apoio da PyData/NumFOCUS"
+    "objectID": "posts/3-meetup-pydata-natal/index.html#º-meetup-pydata",
+    "href": "posts/3-meetup-pydata-natal/index.html#º-meetup-pydata",
+    "title": "Resumo do 3º Meetup PyData Natal",
+    "section": "3º Meetup PyData",
+    "text": "3º Meetup PyData\nO segundo encontro da comunidade aconteceu no dia 01 de agosto, novamente em uma quinta-feira à noite. O evento teve 77 inscritos enquanto já tempos 169 inscrições no meetup.com. A presença foi de 44 pessoas e durante o evento realizamos um sorteio de kits da Python Nordeste,com 33 participantes."
   },
   {
-    "objectID": "posts/1-meetup-pydata-natal/index.html#palestras-e-materiais",
-    "href": "posts/1-meetup-pydata-natal/index.html#palestras-e-materiais",
-    "title": "Resumo do 1º Meetup PyData Natal",
+    "objectID": "posts/3-meetup-pydata-natal/index.html#palestras-e-materiais",
+    "href": "posts/3-meetup-pydata-natal/index.html#palestras-e-materiais",
+    "title": "Resumo do 3º Meetup PyData Natal",
     "section": "Palestras e materiais",
-    "text": "Palestras e materiais\n\nTrazendo data provenance e reprodutibilidade para suas analises de dados em Python\nNessa palestra foi explorado como o Nextflow pode revolucionar a maneira como construímos e executamos pipelines de dados escritos em Python. O Nextflow é uma ferramenta poderosa que simplifica a criação de pipelines reprodutíveis, permite a rastreabilidade dos dados (data provenance) e facilita o deploy em diferentes plataformas.\n🔗 Material apresentado pode ser encontrado aqui\n🎙️ Sobre o palestrante:\nMarcel Ribeiro-Dantas atua como Developer Advocate na Seqera, empresa líder na área de tecnologia open source para orquestração de pipelines de dados, é doutor em Bioinformática pela Sorbonne Université e docente permanente do Programa de Pós-Graduação em Biotecnologia na Saúde da Universidade Potiguar (PPGB-UnP).\n\n\nConstruindo aplicações de IA generativa com a AWS\nNesta palestra, foi aprendido como a AWS vem apoiando seus clientes na construção de aplicações que usam IA Generativa, incluindo os principais serviços e como começar a usá-los. Foi visto também exemplos de arquiteturas e materiais práticos de recentes projetos da área.\n🔗 Material apresentado pode ser encontrado aqui\n🎙️ Sobre o palestrante:\nAndre Fellipe é Arquiteto de Soluções na Amazon Web Services (AWS) e formado em Engenharia Elétrica pela Universidade Federal do Rio Grande do Norte (UFRN). Com seis anos de experiência no mercado de tecnologia, ele vem ajudando clientes a migrarem e modernizarem seus workloads na nuvem da AWS. Recentemente, vem se especializando em como ajudar clientes a inovar em seus negócios com Inteligência Artificial Generativa."
+    "text": "Palestras e materiais\n\nEvitando gastar com cloud no aprendizado de dados abordagem com pyspark e jupterlab\nAo estudar dados a gente se depara com pandas, pyspark e outras ferramentas e a medida que o estudo vai avançando encontramos diversos cursos que utilizam de ferramentas de cloud para trabalhar com um número razoável de dados. A ideia é apresentar alternativa para se trabalhar em ambiente local com docker para utilizar as ferramentas de data analysis jupyterlab, pandas e pyspark partindo de análises de bases pequenas para estudo.\n🔗 Material apresentado pode ser encontrado aqui 🔗 Material github\n🎙️ Sobre a palestrante:\nLeonardo Leano\nÉ Mestre em Física e trabalha com python a 6 anos, navegou em varias areas envolvendo python e dados, desde ciencia de dados, desenvolvimento web e engenharia de dados.\n\n\n\nSimplificando o ETL: Criando e analisando métricas usando a biblioteca Streamlit\nUm dos desafios das organizações é criar e analisar as métricas seja de um time interno ou de ferramentas. Para isso, muitos analistas de dados consomem API’s de diversas ferramentas/sistemas através de scripts de ETL para fomentar ferramentas de BI.\nA biblioteca Streamlit veio trazer a facilidade em criar as métricas e extração de dados até a exibição deles dentro dos mesmos códigos, minimizando a necessidade de exportar os dados para uso em ferramentas de BI. Essa biblioteca possui uma grande contribuição da comunidade, possui diversas integrações e conta com uma interface gráfica simples e funcional.\n\n\n\nRegistro da apresentação\n\n\n🎙️ Sobre as palestrantes:\n[Paulo Eduardo Azevedo da Costa]\nSou o Paulo Eduardo, pai, esposo e potiguar.\nAtualmente trabalhando na empresa DealerSpace no cargo de DevOps TechLead. Possuo mais de 10 anos de experiência com infraestrutura e redes e nos 5 últimos anos dedicados ao DevOps.\nAlém da paixão pelo DevOps também sou entusiasta de Python, Dados, Machine Learning e IA. Onde cada uma delas complementa bastante o que me tornou um TeachLead."
   },
   {
-    "objectID": "posts/1-meetup-pydata-natal/index.html#organização-e-próximos-passos",
-    "href": "posts/1-meetup-pydata-natal/index.html#organização-e-próximos-passos",
-    "title": "Resumo do 1º Meetup PyData Natal",
-    "section": "Organização e próximos passos",
-    "text": "Organização e próximos passos\nNo momento estamos organizando o próximo meetup. A greve dos servidores e professores da UFRN, que busca melhores condições de trabalho e soluções para os salários defasados, faz com que momentaneamente busquemos outros espaços para o evento. Caso tenha uma sugestão de novo espaço que podemos utilizar, por favor comente aqui.\nNossa organização é aberta no github. Temos issues abertas para definir os próximos passos, assim como um kanban para que a comunidade possa acompanhar o trabalho. Dê pitaco, comente, abra issues, queremos organizar algo horizontalmente."
+    "objectID": "posts/3-meetup-pydata-natal/index.html#organização-e-código-de-conduta",
+    "href": "posts/3-meetup-pydata-natal/index.html#organização-e-código-de-conduta",
+    "title": "Resumo do 3º Meetup PyData Natal",
+    "section": "Organização e Código de conduta",
+    "text": "Organização e Código de conduta\nNossa organização é aberta no github. Temos issues abertas, assim como um kanban, para que nossa comunidade possa discutir e também contribuir para o seu crescimento e melhoria.\nFazemos questão de relembrar que a PyData possui um código de conduta que promove a inclusão: “Seja gentil com os outros. Comporte-se profissionalmente. Lembre-se de que assédio e piadas com conotação sexista, racistas ou excludentes não são tolerados no PyData. Toda comunicação deve ser apropriada para um público profissional, incluindo pessoas de diversas origens.\nPyData se dedica a fornecer uma experiência de evento livre de assédio para todos, independentemente de gênero, orientação sexual, identidade e expressão de gênero, deficiência, aparência física, tamanho corporal, raça ou religião. Não toleramos qualquer forma de assédio aos participantes.\nObrigado por ajudar a tornar esta comunidade acolhedora e amigável para todos!”\nA versão inteira do código de conduta pode ser encontrado aqui."
   },
   {
-    "objectID": "posts/1-meetup-pydata-natal/index.html#agradecimentos",
-    "href": "posts/1-meetup-pydata-natal/index.html#agradecimentos",
-    "title": "Resumo do 1º Meetup PyData Natal",
+    "objectID": "posts/3-meetup-pydata-natal/index.html#agradecimentos",
+    "href": "posts/3-meetup-pydata-natal/index.html#agradecimentos",
+    "title": "Resumo do 3º Meetup PyData Natal",
     "section": "Agradecimentos",
-    "text": "Agradecimentos\nAgradecemos a você, que se interessou pelo evento, pela comunidade. Aos nossos apoiadores, que permitiram o evento acontecer, tanto o PyData/NumFOCUS quanto o Instituto Metrópole Digital/Metrópole Parque. Aos palestrantes, muito obrigado Marcel Ribeiro-Dantas e Andre Fellipe, a vontade de compartilhar conhecimento de vocês abrilhantou o meetup, só ouvi elogio e animação de tanto conceito e tecnologia nova aprendida na noite.\nUm agradecimento em especial as pessoas envolvidas na organização: Mariana Queiroz, Ísis Gomes, Thuanny Albuquerque."
+    "text": "Agradecimentos\nAgradecemos a todos que compareceram ao evento, especialmente aos palestrantes. Também aproveitamos para deixar o convite a quem se interessar em participar dos próximos meetups, independente do nível de conhecimento ou área de atuação, todas as pessoas são bem-vindas!"
+  },
+  {
+    "objectID": "posts/4-meetup-pydata-natal/index.html",
+    "href": "posts/4-meetup-pydata-natal/index.html",
+    "title": "Resumo do 4º Meetup PyData Natal",
+    "section": "",
+    "text": "Após o sucesso do terceiro encontro no Instituto Metrópole Digital - UFRN, o PyData Natal realizou seu terceiro meetup. Desta vez no IFRN- IMD, o evento contou com duas palestras sobre temas de grande relevância no mundo dos dados. Confira abaixo os materiais das apresentações, o resumo e as fotos do encontro."
+  },
+  {
+    "objectID": "posts/4-meetup-pydata-natal/index.html#º-meetup-pydata",
+    "href": "posts/4-meetup-pydata-natal/index.html#º-meetup-pydata",
+    "title": "Resumo do 4º Meetup PyData Natal",
+    "section": "4º Meetup PyData",
+    "text": "4º Meetup PyData\nO quarto encontro da comunidade aconteceu no dia 01 de agosto, novamente em uma quinta-feira à noite. O evento teve 76 inscritos enquanto já tempos 169 inscrições no meetup.com. A presença foi de 44 pessoas e durante o evento realizamos um sorteio de kits da Python Nordeste,com 33 participantes.\n🎙️ Sobre a palestrante:  Epitácio Dantas de Farias Filho\nDoutorando e Mestre em Bioinformática. Engenheiro Biomédico. Trabalha com análises single e multi-omics, aprendizagem de máquina.\n\n\nIntegrando Dados Multi-Ômicos: Estratégias para Investigar Sistemas Biológicos\nA integração de dados oriundos de diferentes plataformas ômicas, como genômica, transcriptômica e epigenômica, é uma abordagem essencial para aprofundar o entendimento de processos biológicos complexos. Nesta palestra, vamos apresentar caminhos para acessar, organizar e integrar esses dados utilizando ferramentas de ciências de dados. Serão discutidos os principais desafios técnicos envolvidos e estratégias computacionais que auxiliam na geração de hipóteses e na extração de padrões relevantes para a biologia molecular.\n\n\n\nRegistro da apresentação\n\n\n🎙️ Sobre a palestrante:\nEmanuel Betcel\n\n\n\n\n\n\n\n\n\nRegistro da apresentação\n\n\nNossa organização é aberta no github. Temos issues abertas, assim como um kanban, para que nossa comunidade possa discutir e também contribuir para o seu crescimento e melhoria.\nFazemos questão de relembrar que a PyData possui um código de conduta que promove a inclusão: “Seja gentil com os outros. Comporte-se profissionalmente. Lembre-se de que assédio e piadas com conotação sexista, racistas ou excludentes não são tolerados no PyData. Toda comunicação deve ser apropriada para um público profissional, incluindo pessoas de diversas origens.\nPyData se dedica a fornecer uma experiência de evento livre de assédio para todos, independentemente de gênero, orientação sexual, identidade e expressão de gênero, deficiência, aparência física, tamanho corporal, raça ou religião. Não toleramos qualquer forma de assédio aos participantes.\nObrigado por ajudar a tornar esta comunidade acolhedora e amigável para todos!”\nA versão inteira do código de conduta pode ser encontrado aqui."
+  },
+  {
+    "objectID": "posts/4-meetup-pydata-natal/index.html#agradecimentos",
+    "href": "posts/4-meetup-pydata-natal/index.html#agradecimentos",
+    "title": "Resumo do 4º Meetup PyData Natal",
+    "section": "Agradecimentos",
+    "text": "Agradecimentos\nAgradecemos a todos que compareceram ao evento, especialmente aos palestrantes. Também aproveitamos para deixar o convite a quem se interessar em participar dos próximos meetups, independente do nível de conhecimento ou área de atuação, todas as pessoas são bem-vindas!"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Bem vindo ao PyData Natal",
+    "section": "",
+    "text": "Olá, estamos muito felizes que você está aqui!\nAo longo dos anos, observamos diversas iniciativas de comunidades focadas em Machine Learning, Inteligência Artificial e dados em geral. No entanto, em Natal, esses grupos raramente prosperaram, apesar do evidente interesse no assunto.\nPyData Natal surge inspirada por uma mistura de curiosidade e interesse, com o objetivo de explorar a vastidão de novas tecnologias, modelos e tudo o que envolve dados. Trazendo consigo a força da rede global de desenvolvedores e usuários de ferramentas open source PyData.\n\nA comunidade planeja encontros presenciais e utilizará este blog para registrar nossas atividades, compartilhar conhecimento e divulgar apresentações. Embora aqui seja um ponto de encontro virtual, nosso principal canal de comunicação e atualizações é o Meetup.com. Inscreva-se para acompanhar nossas novidades."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pydata",
+    "section": "",
+    "text": "Resumo do 4º Meetup PyData Natal\n\n\n\nComunidade\n\nMeetup\n\n\n\nExplore os principais tópicos discutidos e as novidades que marcaram o segundo encontro da comunidade PyData Natal.\n\n\n\n\n\nAug 23, 2025\n\n\nLeonardo Leano\n\n\n\n\n\n\n\n\n\n\n\n\nResumo do 3º Meetup PyData Natal\n\n\n\nComunidade\n\nMeetup\n\n\n\nExplore os principais tópicos discutidos e as novidades que marcaram o segundo encontro da comunidade PyData Natal.\n\n\n\n\n\nAug 3, 2025\n\n\nLeonardo Leano\n\n\n\n\n\n\n\n\n\n\n\n\nCódigo de conduta\n\n\n\nCDC\n\n\n\nPyData é uma comunidade que segue um código de conduta que promove a inclusão. Pedimos que leiam atentamente: “Seja gentil com os outros. Comporte-se profissionalmente. Lembre-se de que assédio e piadas com conotação sexista, racistas ou excludentes não são tolerados no PyData. Toda comunicação deve ser apropriada para um público profissional, incluindo pessoas de diversas origens. PyData se dedica a fornecer uma experiência de evento livre de assédio para todos, independentemente de gênero, orientação sexual, identidade e expressão de gênero, deficiência, aparência física, tamanho corporal, raça ou religião. Não toleramos qualquer forma de assédio aos participantes. Obrigado por ajudar a tornar esta comunidade acolhedora e amigável para todos!” A versão inteira do código de conduta pode ser encontrado aqui: https://pydata.org/code-of-conduct/\n\n\n\n\n\nAug 22, 2024\n\n\nLeonardo Leano\n\n\n\n\n\n\n\n\n\n\n\n\nResumo do 2º Meetup PyData Natal\n\n\n\nComunidade\n\nMeetup\n\n\n\nExplore os principais tópicos discutidos e as novidades que marcaram o segundo encontro da comunidade PyData Natal.\n\n\n\n\n\nAug 22, 2024\n\n\nEmanuel Betcel\n\n\n\n\n\n\n\n\n\n\n\n\nResumo do 1º Meetup PyData Natal\n\n\n\nComunidade\n\nMeetup\n\n\n\nConfira os materiais, as fotos, discussões e os próximos passos da comunidade de dados PyData Natal.\n\n\n\n\n\nMay 19, 2024\n\n\nÍtalo Epifânio\n\n\n\n\n\n\n\n\n\n\n\n\nBem vindo ao PyData Natal\n\n\n\nComunidade\n\n\n\nDescubra com a gente um universo de possibilidades com Python e Dados, através dos nossos encontros presenciais. Inscreva-se em nosso Meetup.com para não perder nenhuma atualização!\n\n\n\n\n\nFeb 7, 2024\n\n\nÍtalo Epifânio\n\n\n\n\n\nNo matching items"
   }
 ]
