@@ -1,0 +1,70 @@
+---
+title: "Resumo do 4º Meetup PyData Natal"
+author: "Leonardo Leano"
+date: "<DATA>"
+categories: [Comunidade, Meetup]
+image: chamada_4_pydata.png
+description: >
+    Explore os principais tópicos discutidos e as novidades que marcaram o segundo encontro da comunidade PyData Natal.
+---
+
+Após o sucesso do terceiro encontro no Instituto Metrópole Digital - UFRN, o PyData Natal realizou seu terceiro meetup.
+Desta vez no IFRN- IMD, o evento contou com duas palestras sobre temas de grande relevância no mundo dos dados.
+Confira abaixo os materiais das apresentações, o resumo e as fotos do encontro.
+
+![Foto oficial. Todas as fotos [podem ser acessadas aqui](<LINK DAS FOTOS>)](<IMAGEM>)
+
+## 4º Meetup PyData
+
+O quarto encontro da comunidade aconteceu no dia 01 de agosto, novamente em uma quinta-feira 
+à noite. O evento teve 77 inscritos enquanto já tempos 169 inscrições no meetup.com. A presença foi de 44 pessoas e durante o evento realizamos um sorteio de kits da Python Nordeste,com 33 participantes.
+
+🎙️ **Sobre a palestrante:**
+
+<img src="<IMAGEM>" width="200">
+[<NOME DO PALESTRANTE>](<LINK DE CONTATO>)
+
+<DESCRICAO DO PALESTRANTE>
+
+---
+
+### <TITULO>
+
+<DESCRICAO>
+
+![Registro da apresentação](<IMAGEM>)
+
+
+🎙️ **Sobre a palestrante:**
+
+[<NOME DO PALESTRANTE>](<LINK DE CONTATO>)
+
+<DESCRICAO DO PALESTRANTE>
+
+---
+
+### <TITULO>
+
+<DESCRICAO>
+
+![Registro da apresentação](<IMAGEM>)
+
+
+Nossa organização é [aberta no github](https://github.com/PyData-Natal). 
+Temos [issues abertas](https://github.com/PyData-Natal/organizacao), assim como [um kanban](https://github.com/orgs/PyData-Natal/projects/1), para que nossa comunidade possa discutir e também
+contribuir para o seu crescimento e melhoria.
+
+Fazemos questão de relembrar que a PyData possui um código de conduta que promove a inclusão:
+"Seja gentil com os outros. Comporte-se profissionalmente. Lembre-se de que assédio e piadas com conotação sexista, racistas ou excludentes não são tolerados no PyData.
+Toda comunicação deve ser apropriada para um público profissional, incluindo pessoas de diversas origens.
+
+PyData se dedica a fornecer uma experiência de evento livre de assédio para todos, independentemente de gênero, orientação sexual, identidade e expressão de gênero, deficiência, aparência física, tamanho corporal, raça ou religião. Não toleramos qualquer forma de assédio aos participantes.
+
+Obrigado por ajudar a tornar esta comunidade acolhedora e amigável para todos!"
+
+A versão inteira do código de conduta pode ser encontrado [aqui](https://pydata.org/code-of-conduct/).
+
+## Agradecimentos
+
+Agradecemos a todos que compareceram ao evento, especialmente aos palestrantes. Também aproveitamos para deixar o convite 
+a quem se interessar em participar dos próximos meetups, independente do nível de conhecimento ou área de atuação, todas as pessoas são bem-vindas!
