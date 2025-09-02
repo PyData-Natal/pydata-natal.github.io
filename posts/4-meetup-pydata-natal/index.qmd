@@ -20,6 +20,7 @@ O quarto encontro da comunidade aconteceu no dia 01 de agosto, novamente em uma 
 à noite. O evento teve 76 inscritos enquanto já tempos 169 inscrições no meetup.com. A presença foi de 44 pessoas e durante o evento realizamos um sorteio de kits da Python Nordeste,com 33 participantes.
 
 🎙️ **Sobre a palestrante:**
+
 <img src="epitacio_farias.jpg" width="200">
 Epitácio Dantas de Farias Filho
 
@@ -36,15 +37,18 @@ A integração de dados oriundos de diferentes plataformas ômicas, como genômi
 
 🎙️ **Sobre a palestrante:**
 
-[Emanuel Betcel](<LINK DE CONTATO>)
+<img src="emanuel.jpg" width="200">
+Emanuel Costa Betcel
 
-<DESCRICAO DO PALESTRANTE>
+Formado em Tecnologia da Informação na UFRN, possui 5+ anos de experiência trabalhando com dados, tendo atuado em projetos de engenharia em grandes empresas como Itaú, Rede Globo, Cielo e Raia Drogasil. Atualmente é Engenheiro de Dados na Localiza e aluno do mestrado em Ciência, Tecnologia e Inovação da UFRN e organizador do PyData Natal.
 
 ---
 
-### <TITULO>
+### dbt (data build tool): Da Teoria ao Primeiro Modelo
 
-<DESCRICAO>
+Nesta atividade, o Engenheiro de Dados Emanuel Betcel irá explorar o dbt (data build tool), uma ferramenta fundamental para a transformação de dados no ambiente moderno de data warehousing. Serão abordados os conceitos essenciais do dbt e como ele se integra ao fluxo de trabalho de um time de dados, permitindo a escrita de SQL de forma mais eficiente e organizada.
+
+Apresenta-se a importância da modelagem de dados com SQL, a implementação de testes para garantir a qualidade dos dados e a geração automática de documentação, aspectos cruciais para a governança e colaboração em equipes de dados. O objetivo é mostrar como o dbt potencializa o desenvolvimento de pipelines de dados robustos e escaláveis, desde os princípios básicos até suas funcionalidades que facilitam o dia a dia de analistas e engenheiros.
 
 ![Registro da apresentação](<IMAGEM>)
 
